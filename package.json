@@ -1,0 +1,33 @@
+{
+  "name": "proton-sms",
+  "version": "1.0.0",
+  "description": "A simple web application to send sms to different mobile numbers in Nigeria",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "jusibe": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COOPROTON/proton-sms.git"
+  },
+  "keywords": [
+    "proton",
+    "sms",
+    "web",
+    "express",
+    "node"
+  ],
+  "author": "Bolaji Olajide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/COOPROTON/proton-sms/issues"
+  },
+  "homepage": "https://github.com/COOPROTON/proton-sms#readme"
+}
